@@ -8,8 +8,6 @@ const perguntas = [
     {
         enunciado: "O Brasil teve três capitais ao longo de sua história, a primeira durante o período colonial português, a segunda teve um grande desenvolvimento econômico da região e o aumento da produção de ouro e a terceira e ultima foi construída para centralizar o desenvolvimento do país, as três capitais são respectivamente?",
         alternativas: [
-            <div class="alternativa">Opção 1</div>
-            <div class="alternativa">Opção 2</div>
             {
                 texto: "Salvador, Rio de janeiro e Brasília",
                 afirmacao: "afirmação"
